@@ -91,3 +91,5 @@ Is the coefficient on `U.S. TV access` statistically significant at the 1% error
 ### Part F
 
 Based on the results in *Table 2*, might the negative coefficient on `U.S. TV Access` be the result of more educated people being more likely to have access to U.S. TV? In no more than 1 sentence, explain your answer. (3 points)
+
+TO DELETE
